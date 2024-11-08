@@ -80,3 +80,4 @@ export class RegisterComponent {
     }
   }
 }
+#ng serve ,npm install -g @angular/cli,ng new <project-name>
